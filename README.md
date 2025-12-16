@@ -1,4 +1,4 @@
-🎬 TMDB Movie Data Analysis
+TMDB Movie Data Analysis
 
 Este projeto realiza uma análise exploratória de dados do TMDB (The Movie Database), utilizando Python, Jupyter Notebook e visualizações gráficas. O objetivo é extrair insights relevantes sobre a indústria cinematográfica global.
 
@@ -38,7 +38,7 @@ Durante a análise exploratória, foram respondidas perguntas como:
 
 **Gustavo Brandão**
 
-📧 E-mail: gubrandaods@gmail.com  
-🐙 GitHub: [github.com/gubrandaods7](https://github.com/gubrandaods7)  
-🔗 LinkedIn: [linkedin.com/in/gustavo-brandao-0b7635197](https://www.linkedin.com/in/gustavo-brandao-0b7635197)
+E-mail: gubrandaods@gmail.com  
+GitHub: [github.com/gubrandaods7](https://github.com/gubrandaods7)  
+LinkedIn: [linkedin.com/in/gustavo-brandao-0b7635197](https://www.linkedin.com/in/gustavo-brandao-0b7635197)
 
